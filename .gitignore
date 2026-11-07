@@ -1,0 +1,30 @@
+# secrets: API keys live here, never upload
+.env
+
+# local Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# public datasets: recreate them with src/download_data.py
+data/paws_*.csv
+data/qqp_*.csv
+data/mrpc_*.csv
+
+# LaTeX build files
+report/*.aux
+report/*.log
+report/*.out
+report/*.bbl
+report/*.blg
+report/*.synctex.gz
+report/old_versions/
+report/DA6024_Member_Contributions.docx
+# Office lock files and OS clutter
+~$*
+Thumbs.db
+desktop.ini
+
+# slides and video script are submitted separately
+presentation/

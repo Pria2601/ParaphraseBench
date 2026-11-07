@@ -1,0 +1,13 @@
+{
+  "gemini_calls": 900,
+  "invalid_replies": 0,
+  "mean_latency_s": 4.345288518799676,
+  "median_latency_s": 1.2521848678588867,
+  "mean_tokens": 74.36444444444444,
+  "sentences_kept_all_levels": 60,
+  "model_agreement": 1.0,
+  "agreement_n": 78,
+  "mcnemar_only_gemini": 221,
+  "mcnemar_only_sbert": 51,
+  "mcnemar_p": 2.1417265146492547e-26
+}

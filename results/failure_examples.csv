@@ -1,0 +1,83 @@
+level,method,label,s1,s2
+1,tfidf,1,What did he find that could constitute a hazard?,What did he find that could represent a risk?
+1,tfidf,1,What is a main duty of the GPhC?,What is a principal responsibility of the GPhC?
+1,tfidf,1,What was the main idea of James Hutton's paper?,What was the principal thought of James Hutton's paper?
+1,bm25,1,What kind of universities is the region famous for?,What sort of universities is the region famed for?
+1,bm25,1,"What theatre was the best example of ""Polish monumental theatre""?","What theater was the best instance of ""Polish monumental theater""?"
+1,bm25,1,What is used to decide a teacher's salary?,What is used to decide an instructor's wage?
+1,sbert,0,Where did France focus its efforts to rebuild its empire?,When did France start in earnest to reconstruct its global empire?
+1,sbert,1,What does a country acquire as it develops?,What does a nation get as it develops?
+1,sbert,1,The answer given by most players is just one word: confidence.,The reply given by most players is just one word: assurance.
+1,clf_tfidf,1,ABC began to focus on what kind of series after NBC's success in 1984?,ABC began to concentrate on what sort of series after NBC's success in 1984?
+1,clf_tfidf,1,What type of interpretation of Islam does Salafism promote?,What type of reading of Islam does Salafism encourage?
+1,clf_tfidf,1,What is the minimum required if you want to teach in Canada?,What is the minimum required if you desire to instruct in Canada?
+1,clf_sbert,0,Who was the most influential researcher among those grappling with the deficit of work surrounding the complexity posed by algorithmic problems?,What tactic did researchers use to offset the former shortage of work surrounding the complexity of algorithmic problems?
+1,clf_sbert,1,What did he find that could constitute a hazard?,What did he find that could represent a risk?
+1,clf_sbert,1,What does a country acquire as it develops?,What does a nation get as it develops?
+1,gemini,1,"Ending the limits would allow the country's authoritarian leader, Alexander Lukashenko, to seek a new term in 2006.","Ending the limits would let the nation's authoritarian leader, Alexander Lukashenko, to seek a new term in 2006."
+1,gemini,1,Who is responsible for education in the country of Australia?,Who is responsible for teaching in the nation of Australia?
+2,tfidf,0,What is the high end of the temperature range in winter?,What is the temperature in winter in the highest portion of the mountain range?
+2,tfidf,0,What is the average construction salary in the UK?,What is the average salary for construction in the Middle East?
+2,tfidf,1,How did the project encourage the commercialisation of legumes?,How was the commercialisation of legumes encouraged by the project?
+2,bm25,0,What is the high end of the temperature range in winter?,What is the temperature in winter in the highest portion of the mountain range?
+2,bm25,0,What is the average construction salary in the UK?,What is the average salary for construction in the Middle East?
+2,bm25,0,What is the average construction salary in the Middle East?,What is the average salary for construction in the UK?
+2,sbert,0,What is the average construction salary in the Middle East?,What is the average salary for construction in the UK?
+2,sbert,0,What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?,"Among those grappling with the deficit of work surrounding the complexity posed by algorithmic problems, who was the most influential researcher?"
+2,sbert,0,What is the temperature in the highest portion of the mountain range in winter?,What is the high end of the winter temperature range?
+2,clf_tfidf,1,Who designed the iron gates that decorate the new entrance building?,Who designed the new entrance building's iron gates?
+2,clf_tfidf,1,What country is the most industrially developed country in the African Great Lakes Region?,What is the most industrially developed country in the African Great Lakes Region?
+2,clf_tfidf,1,But porn fans want more from their mobile adult content -- and size ain't the only thing that matters.,But more is wanted by porn fans from their mobile adult content -- and size ain't the only thing that matters.
+2,clf_sbert,0,Who was the most influential researcher among those grappling with the deficit of work surrounding the complexity posed by algorithmic problems?,What tactic was employed by researchers to offset the former deficit of work surrounding the complexity of algorithmic problems?
+2,clf_sbert,0,PeopleSoft's partnership with I.B.M. is an attempt to show that it is moving forward aggressively despite the turmoil created by Oracle's hostile takeover bid.,PeopleSoft Inc. will be journeyed up the road to by Oracle president Charles Phillips.
+2,clf_sbert,0,What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?,"Among those grappling with the deficit of work surrounding the complexity posed by algorithmic problems, who was the most influential researcher?"
+2,gemini,1,What is important for a teacher to enjoy?,What is it important for a teacher to enjoy?
+3,tfidf,0,What would a teacher do for someone who is cocky?,What would a teacher do for someone who is shy?
+3,tfidf,1,What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?,What strategy did researchers use to compensate for the previous lack of work on the complexity of algorithmic problems?
+3,tfidf,0,What is the temperature in the highest portion of the mountain range in winter?,What is the upper end of the temperature range in winter?
+3,bm25,0,What famous English physicist and mathematician was depicted in the main bronze door entrance of the museum?,Which Italian painter was depicted in the main bronze door entrance of the museum?
+3,bm25,0,What would a teacher do for someone who is timid?,What would a teacher do for someone who is arrogant?
+3,bm25,1,What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?,What strategy did researchers use to compensate for the previous lack of work on the complexity of algorithmic problems?
+3,sbert,0,What is the temperature in the highest portion of the mountain range in winter?,What is the upper end of the temperature range in winter?
+3,sbert,0,What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?,Who was the most influential researcher among those dealing with the lack of work surrounding the complexity posed by algorithmic problems?
+3,sbert,0,Where did France focus its efforts to rebuild its empire?,When did France begin in earnest to reconstruct its global empire?
+3,clf_tfidf,1,Bank's (Law) Suit New York's attorney general orders the company to change its advertising strategy.,Bank's (Law) Suit New York's attorney general orders the company to alter its advertising strategy.
+3,clf_tfidf,1,What was an example of a type of warship that required high speed?,What was an example of a type of warship that needed high speed?
+3,clf_tfidf,1,Why has the Muslim Brotherhood facilitated inexpensive mass marriage ceremonies?,Why has the Muslim Brotherhood facilitated low-cost mass marriage ceremonies?
+3,clf_sbert,1,The real stuff provides enough drama without making things up.,The real stuff provides enough drama without inventing things.
+3,clf_sbert,0,When did France begin in earnest to rebuild its global empire?,Where did France concentrate its efforts to rebuild its empire?
+3,clf_sbert,0,What scripture did Luther use to back up his opinion that churchmen were not infallible?,What kind of images of Luther were used to promote Protestantism?
+4,tfidf,1,What kind of universities is the region famous for?,Which higher education institutions has this area become renowned for?
+4,tfidf,1,The immune system also produces what molecules in order to allow for tumor destruction by the complement system?,"To enable complement-mediated tumor lysis, which molecular entities does the body's defense network synthesize?"
+4,tfidf,1,The principle of faunal succession was developed 100 years before whose theory of evolution?,Whose evolutionary concept came a century after the origin of the faunal succession principle?
+4,bm25,1,What kind of universities is the region famous for?,Which higher education institutions has this area become renowned for?
+4,bm25,1,When did British begin to build fort under William Trent?,"Under the tenure of William Trent, what year did the Brits start constructing the fortification?"
+4,bm25,1,The speed of the killing response of the human immune system is a product of what process?,Which mechanism dictates the velocity with which the human body’s defenses execute their lethal actions?
+4,sbert,1,What sort of waves did he claim to observe?,Which ripples did he assert he detected?
+4,sbert,1,Brazilian officials expressed optimism Wednesday that they would reach agreement with United Nations inspectors over the country's contested plans to enrich uranium.,"On Wednesday, government leaders in Brazil voiced confidence that a settlement regarding the disputed national initiative for uranium enrichment would be finalized with UN surveyors."
+4,sbert,1,Building printing is making it possible to flexibly construct small commercial buildings and private habitations in what amount of time?,How quickly can additively manufactured structures enable the adaptable erection of modest business facilities and personal residences?
+4,clf_tfidf,1,Andy Beal who doesn't seem to be too fond of Barbara Wawa pointed this out on his SearchEngineLowdown blog.,"That is what was noted on the SearchEngineLowdown blog by Andy Beal, a man who clearly harbors little affection for Barbara Wawa."
+4,clf_tfidf,1,"A British multimillionaire, Richard Branson, has just signed a substantial contract with the makers of SpaceShipOne for the development and construction of passenger-carrying space vehicles.","Sir Richard Branson, a UK-based ultra-high-net-worth individual, recently inked a hefty deal with the manufacturers of SpaceShipOne to design and build crewed spacecraft."
+4,clf_tfidf,1,What would a teacher do for someone who is timid?,How might an instructor act toward a shy individual?
+4,clf_sbert,1,Critics say the plan could compromise privacy and allow new varieties of fraud to flourish.,Pundits warn that this scheme risks violating confidentiality and fostering fresh con tricks.
+4,clf_sbert,1,Which rival of the Mongols is suspected of inventing the story that Genghis Khan was murdered by a captured princess?,"Who, among the empire's adversaries, is believed to have fabricated the narrative claiming Genghis Khan was killed by a detained maiden?"
+4,clf_sbert,1,"Now, one way or another, investors want this soap opera to end.",Market participants demand an immediate conclusion to this theatrical debacle.
+4,gemini,1,What is the average construction salary in the UK?,How much does a typical building worker earn on average in Britain?
+5,tfidf,1,"Some crucial switches were installed backwards, because of an error in the instructions.",Some of the key switches were installed backwards due to errors in the description.
+5,tfidf,1,This is the time of year when companies begin releasing their shiniest/newest/greatest products to compete for your holiday shopping dollar.,This is the time in the year when companies start to issue the brightest/latest/greatest products to compete for holiday dollars.
+5,tfidf,0,When did France begin in earnest to rebuild its global empire?,Where has France focused its efforts to rebuild its empire?
+5,bm25,1,"Some crucial switches were installed backwards, because of an error in the instructions.",Some of the key switches were installed backwards due to errors in the description.
+5,bm25,1,What kind of disorders occur when part of the immune system isn't active?,What kind of disease occurs when parts of the immune system are not active?
+5,bm25,1,Iraq Intelligence-gathering by the front-line forces that need to know the most is proving difficult in a region increasingly gripped by fear.,"In an area of growing fear, the collection of Iraqi intelligence by the front-line forces most in need has proved difficult."
+5,sbert,0,Where did France focus its efforts to rebuild its empire?,When did France begin to seriously rebuild its global empire?
+5,sbert,1,So now and then its helpful to pause and ponder the state of things.,Sometimes you stop to think about the state of things.
+5,sbert,0,When did France begin in earnest to rebuild its global empire?,Where has France focused its efforts to rebuild its empire?
+5,clf_tfidf,0,But it says the resolution is unfair and unjust to Sudan.,"ABB was naturally surprised and disappointed by today's decision, but was confident that it could be resolved."
+5,clf_tfidf,1,In what country was a full-scale working railway steam locomotive first invented?,Which country was the first to invent a fully operational railway steam engine?
+5,clf_tfidf,1,The agreement also includes a provision for the purchase of AT T network services.,The agreement also includes a provision on the purchase of ATT network services.
+5,clf_sbert,1,Now authorities are revamping their tourism strategy to focus on preservation.,The authorities are now revising their tourism strategy to focus on protection.
+5,clf_sbert,1,Thursday reported a huge surge in third quarter profits from a one-time tax refund and increased revenue from higher membership.,"On Thursday, it was reported that a one-time tax refund and increased income of members had resulted in a sharp increase in profits in the third quarter."
+5,clf_sbert,0,When did France begin in earnest to rebuild its global empire?,Where has France focused its efforts to rebuild its empire?
+5,gemini,1,"One allows access from the hall, and the other opens onto a four-foot-wide walkway on the building's perimeter.",One allows access from the lobby and the other opens a walkway four feet wide around the building.
+5,gemini,1,"Aside from being located on the coast, what contributes to Jacksonville's lack of cold weather?","Besides being located on the coast, what caused Jacksonville's lack of cold weather?"
+5,gemini,1,"Netflix will arrange the movie licensing from Hollywood studios, and TiVo will take care of the product technology.","Netflix will arrange a film license for a Hollywood studio, and TiVo will be in charge of product technology."
